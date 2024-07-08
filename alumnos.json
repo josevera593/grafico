@@ -1,0 +1,12 @@
+[
+  {"alumno":"ChatGPT","nota":9.09,"ranking":1},
+  {"alumno":"Pedro","nota":8.5,"ranking":2},
+  {"alumno":"Juan","nota":7.2,"ranking":3},
+  {"alumno":"María","nota":6.8,"ranking":4},
+  {"alumno":"Ana","nota":5.9,"ranking":5},
+  {"alumno":"Luis","nota":5.5,"ranking":6},
+  {"alumno":"Jorge","nota":4.8,"ranking":7},
+  {"alumno":"Laura","nota":4.0,"ranking":8},
+  {"alumno":"Carlos","nota":3.5,"ranking":9},
+  {"alumno":"Marta","nota":2.7,"ranking":10}
+]
