@@ -8,6 +8,6 @@
   {"alumno":"Jorge","nota":4.8,"ranking":7},
   {"alumno":"Laura","nota":4.0,"ranking":8},
   {"alumno":"Carlos","nota":3.5,"ranking":9},
-  {"alumno":"Marta","nota":2.7,"ranking":10}
-  {"alumno":"PedroPE","nota":3.7,"ranking":11}
+  {"alumno":"Marta","nota":2.7,"ranking":10},
+  {"alumno":"PedroPE","nota":3.7,"ranking":11},
 ]
