@@ -1,12 +1,12 @@
 [
-  {"alumno": "Juliooo", "nota": 9.09, "ranking": 1},
+  {"alumno": "Julio", "nota": 9.09, "ranking": 1},
   {"alumno": "Pedro", "nota": 8.5, "ranking": 2},
   {"alumno": "Jefferson", "nota": 9.2, "ranking": 3},
   {"alumno": "María", "nota": 6.8, "ranking": 4},
   {"alumno": "Ana", "nota": 5.9, "ranking": 5},
-  {"alumno": "Antonio", "nota": 9.5, "ranking": 6},
+  {"alumno": "El Antonio", "nota": 5.5, "ranking": 6},
   {"alumno": "Jorge", "nota": 4.8, "ranking": 7},
   {"alumno": "Laura", "nota": 4.0, "ranking": 8},
   {"alumno": "Carlos", "nota": 3.5, "ranking": 9},
-  {"alumno": "Prom", "nota": 1.5, "ranking": 10}
+  {"alumno": "Prom", "nota": 2.5, "ranking": 10}
 ]
