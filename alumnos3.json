@@ -1,0 +1,22 @@
+[
+  {"alumno": "Javier", "nota": 9.3, "ranking": 1},
+  {"alumno": "Sofía", "nota": 9.1, "ranking": 2},
+  {"alumno": "Lucía", "nota": 8.7, "ranking": 3},
+  {"alumno": "Diego", "nota": 8.5, "ranking": 4},
+  {"alumno": "Carlos", "nota": 8.3, "ranking": 5},
+  {"alumno": "Laura", "nota": 8.2, "ranking": 6},
+  {"alumno": "Mariana", "nota": 8.0, "ranking": 7},
+  {"alumno": "Luis", "nota": 7.8, "ranking": 8},
+  {"alumno": "Elena", "nota": 7.6, "ranking": 9},
+  {"alumno": "Mateo", "nota": 7.3, "ranking": 10},
+  {"alumno": "Ana", "nota": 7.0, "ranking": 11},
+  {"alumno": "Gabriela", "nota": 6.9, "ranking": 12},
+  {"alumno": "Patricia", "nota": 6.7, "ranking": 13},
+  {"alumno": "Juan", "nota": 6.4, "ranking": 14},
+  {"alumno": "Isabel", "nota": 6.1, "ranking": 15},
+  {"alumno": "Pablo", "nota": 5.9, "ranking": 16},
+  {"alumno": "Andrés", "nota": 5.5, "ranking": 17},
+  {"alumno": "Miguel", "nota": 5.2, "ranking": 18},
+  {"alumno": "Fernando", "nota": 4.8, "ranking": 19},
+  {"alumno": "Valeria", "nota": 4.5, "ranking": 20}
+]
